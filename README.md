@@ -28,8 +28,8 @@
 
 配布されているフォルダごと、以下のいずれかのディレクトリに配置してください。
 
-- **全プロジェクト共通:** `~/.claude/skills/kanta-channel-produce/`
-- **特定プロジェクトのみ:** `<プロジェクト>/.claude/skills/kanta-channel-produce/`
+- **全プロジェクト共通:** `~/.claude/skills/kanta-produce-skill/`
+- **特定プロジェクトのみ:** `<プロジェクト>/.claude/skills/kanta-produce-skill/`
 
 ### B. スラッシュコマンドとして使う場合
 
@@ -37,7 +37,7 @@
 
 1. **ファイルの保存**
    `kanta-produce-skill.md` を以下の場所に保存（またはコピー）します。
-   保存先: `<プロジェクト>/.claude/commands/kanta-channel-produce.md`
+   保存先: `<プロジェクト>/.claude/commands/kanta-produce-skill.md.md`
 2. **ファイル先頭の編集**
    保存したファイルを開き、先頭の設定部分（frontmatter）にある `name:` の行を削除します。（※ `description:` の行はそのまま残してください）
 
